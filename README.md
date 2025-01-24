@@ -8,7 +8,7 @@ This is a sample repo for proj1 for fastai course.
 This file will be updated as the course progresses.
 
 List:
--one
--two
+- one
+- two
 
 
